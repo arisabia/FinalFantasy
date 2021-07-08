@@ -2,7 +2,7 @@
 
 namespace FinalFantasy.RepositoryMock
 {
-    public class RepositoryManager
+    public static class RepositoryManager
     {
 
     }

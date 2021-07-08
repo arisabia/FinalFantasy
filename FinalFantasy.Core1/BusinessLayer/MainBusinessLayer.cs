@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace FinalFantasy.Core1.BusinessLayer
 {
-    class MainBusinessLayer
+    public class MainBusinessLayer : IBusinessLayer
     {
+
     }
 }

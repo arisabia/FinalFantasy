@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace FinalFantasy.Core1.BusinessLayer
 {
-    interface IBusinessLayer
+    public interface IBusinessLayer
     {
     }
 }
