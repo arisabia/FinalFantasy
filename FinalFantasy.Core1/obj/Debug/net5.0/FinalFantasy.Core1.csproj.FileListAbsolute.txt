@@ -1,0 +1,12 @@
+C:\Users\larisa.b.antonica\Downloads\Prova\Prova\FinalFantasy\FinalFantasy.Core1\bin\Debug\net5.0\FinalFantasy.Core1.deps.json
+C:\Users\larisa.b.antonica\Downloads\Prova\Prova\FinalFantasy\FinalFantasy.Core1\bin\Debug\net5.0\FinalFantasy.Core1.dll
+C:\Users\larisa.b.antonica\Downloads\Prova\Prova\FinalFantasy\FinalFantasy.Core1\bin\Debug\net5.0\ref\FinalFantasy.Core1.dll
+C:\Users\larisa.b.antonica\Downloads\Prova\Prova\FinalFantasy\FinalFantasy.Core1\bin\Debug\net5.0\FinalFantasy.Core1.pdb
+C:\Users\larisa.b.antonica\Downloads\Prova\Prova\FinalFantasy\FinalFantasy.Core1\obj\Debug\net5.0\FinalFantasy.Core1.csproj.AssemblyReference.cache
+C:\Users\larisa.b.antonica\Downloads\Prova\Prova\FinalFantasy\FinalFantasy.Core1\obj\Debug\net5.0\FinalFantasy.Core1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\larisa.b.antonica\Downloads\Prova\Prova\FinalFantasy\FinalFantasy.Core1\obj\Debug\net5.0\FinalFantasy.Core1.AssemblyInfoInputs.cache
+C:\Users\larisa.b.antonica\Downloads\Prova\Prova\FinalFantasy\FinalFantasy.Core1\obj\Debug\net5.0\FinalFantasy.Core1.AssemblyInfo.cs
+C:\Users\larisa.b.antonica\Downloads\Prova\Prova\FinalFantasy\FinalFantasy.Core1\obj\Debug\net5.0\FinalFantasy.Core1.csproj.CoreCompileInputs.cache
+C:\Users\larisa.b.antonica\Downloads\Prova\Prova\FinalFantasy\FinalFantasy.Core1\obj\Debug\net5.0\FinalFantasy.Core1.dll
+C:\Users\larisa.b.antonica\Downloads\Prova\Prova\FinalFantasy\FinalFantasy.Core1\obj\Debug\net5.0\ref\FinalFantasy.Core1.dll
+C:\Users\larisa.b.antonica\Downloads\Prova\Prova\FinalFantasy\FinalFantasy.Core1\obj\Debug\net5.0\FinalFantasy.Core1.pdb

@@ -1,0 +1,15 @@
+C:\Users\larisa.b.antonica\Downloads\Prova\Prova\FinalFantasy\FinalFantasy.RepositoryMock\bin\Debug\net5.0\FinalFantasy.RepositoryMock.deps.json
+C:\Users\larisa.b.antonica\Downloads\Prova\Prova\FinalFantasy\FinalFantasy.RepositoryMock\bin\Debug\net5.0\FinalFantasy.RepositoryMock.dll
+C:\Users\larisa.b.antonica\Downloads\Prova\Prova\FinalFantasy\FinalFantasy.RepositoryMock\bin\Debug\net5.0\ref\FinalFantasy.RepositoryMock.dll
+C:\Users\larisa.b.antonica\Downloads\Prova\Prova\FinalFantasy\FinalFantasy.RepositoryMock\bin\Debug\net5.0\FinalFantasy.RepositoryMock.pdb
+C:\Users\larisa.b.antonica\Downloads\Prova\Prova\FinalFantasy\FinalFantasy.RepositoryMock\bin\Debug\net5.0\FinalFantasy.Core1.dll
+C:\Users\larisa.b.antonica\Downloads\Prova\Prova\FinalFantasy\FinalFantasy.RepositoryMock\bin\Debug\net5.0\FinalFantasy.Core1.pdb
+C:\Users\larisa.b.antonica\Downloads\Prova\Prova\FinalFantasy\FinalFantasy.RepositoryMock\obj\Debug\net5.0\FinalFantasy.RepositoryMock.csproj.AssemblyReference.cache
+C:\Users\larisa.b.antonica\Downloads\Prova\Prova\FinalFantasy\FinalFantasy.RepositoryMock\obj\Debug\net5.0\FinalFantasy.RepositoryMock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\larisa.b.antonica\Downloads\Prova\Prova\FinalFantasy\FinalFantasy.RepositoryMock\obj\Debug\net5.0\FinalFantasy.RepositoryMock.AssemblyInfoInputs.cache
+C:\Users\larisa.b.antonica\Downloads\Prova\Prova\FinalFantasy\FinalFantasy.RepositoryMock\obj\Debug\net5.0\FinalFantasy.RepositoryMock.AssemblyInfo.cs
+C:\Users\larisa.b.antonica\Downloads\Prova\Prova\FinalFantasy\FinalFantasy.RepositoryMock\obj\Debug\net5.0\FinalFantasy.RepositoryMock.csproj.CoreCompileInputs.cache
+C:\Users\larisa.b.antonica\Downloads\Prova\Prova\FinalFantasy\FinalFantasy.RepositoryMock\obj\Debug\net5.0\FinalFantasy.RepositoryMock.csproj.CopyComplete
+C:\Users\larisa.b.antonica\Downloads\Prova\Prova\FinalFantasy\FinalFantasy.RepositoryMock\obj\Debug\net5.0\FinalFantasy.RepositoryMock.dll
+C:\Users\larisa.b.antonica\Downloads\Prova\Prova\FinalFantasy\FinalFantasy.RepositoryMock\obj\Debug\net5.0\ref\FinalFantasy.RepositoryMock.dll
+C:\Users\larisa.b.antonica\Downloads\Prova\Prova\FinalFantasy\FinalFantasy.RepositoryMock\obj\Debug\net5.0\FinalFantasy.RepositoryMock.pdb

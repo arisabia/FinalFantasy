@@ -11,6 +11,19 @@
         "runtime": {
           "bin/placeholder/FinalFantasy.Core1.dll": {}
         }
+      },
+      "FinalFantasy.RepositoryMock/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "FinalFantasy.Core1": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/FinalFantasy.RepositoryMock.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/FinalFantasy.RepositoryMock.dll": {}
+        }
       }
     }
   },
@@ -19,11 +32,17 @@
       "type": "project",
       "path": "../FinalFantasy.Core1/FinalFantasy.Core1.csproj",
       "msbuildProject": "../FinalFantasy.Core1/FinalFantasy.Core1.csproj"
+    },
+    "FinalFantasy.RepositoryMock/1.0.0": {
+      "type": "project",
+      "path": "../FinalFantasy.RepositoryMock/FinalFantasy.RepositoryMock.csproj",
+      "msbuildProject": "../FinalFantasy.RepositoryMock/FinalFantasy.RepositoryMock.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net5.0": [
-      "FinalFantasy.Core1 >= 1.0.0"
+      "FinalFantasy.Core1 >= 1.0.0",
+      "FinalFantasy.RepositoryMock >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -55,6 +74,9 @@
           "projectReferences": {
             "C:\\Users\\larisa.b.antonica\\Downloads\\Prova\\Prova\\FinalFantasy\\FinalFantasy.Core1\\FinalFantasy.Core1.csproj": {
               "projectPath": "C:\\Users\\larisa.b.antonica\\Downloads\\Prova\\Prova\\FinalFantasy\\FinalFantasy.Core1\\FinalFantasy.Core1.csproj"
+            },
+            "C:\\Users\\larisa.b.antonica\\Downloads\\Prova\\Prova\\FinalFantasy\\FinalFantasy.RepositoryMock\\FinalFantasy.RepositoryMock.csproj": {
+              "projectPath": "C:\\Users\\larisa.b.antonica\\Downloads\\Prova\\Prova\\FinalFantasy\\FinalFantasy.RepositoryMock\\FinalFantasy.RepositoryMock.csproj"
             }
           }
         }

@@ -9,7 +9,11 @@ namespace FinalFantasy.Core1.Repositories
 {
     public interface IRepositoryPersonaggio : IRepository<Personaggio>
     {
-        public bool Add(Personaggio personaggio);
-        public bool Delete(Personaggio personaggio);
+       // public Personaggio GetByNome(string nome);
+        public Personaggio Add(Personaggio personaggio);
+        public bool Delete(Personaggio  personaggio);
+        public ICollection<Personaggio> GetAll();
+
+
     }
 }

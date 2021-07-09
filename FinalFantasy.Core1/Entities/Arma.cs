@@ -10,8 +10,7 @@ namespace FinalFantasy.Core1.Entities
     {
         public string Nome { get; set; }
         public int PuntiDanno { get; set; }
-        public Hero Hero { get; set; }
-        public Monster Monster { get; set; }
+        public ICollection<Personaggio> Personaggi { get; set; } = new List<Personaggio>();
 
     }
 }

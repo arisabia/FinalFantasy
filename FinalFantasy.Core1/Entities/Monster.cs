@@ -6,8 +6,23 @@ using System.Threading.Tasks;
 
 namespace FinalFantasy.Core1.Entities
 {
+    public enum TipoMostro
+    {
+        Ghost,
+        Lucifer
+    }
     public class Monster : Personaggio
     {
-        public ICollection<Arma> Armi { get; set; } = new List<Arma>();
+        public TipoMostro TipoMostro { get; set; }
+
+        public override int Fight()
+        {
+            return Arma.PuntiDanno;
+        }
+
+        public override string ToString()
+        {
+            return $"{Nome} - Liv: {Livello} - PV: {PuntiVita} - {TipoMostro} - Arma: {ArmaNome}";
+        }
     }
 }
